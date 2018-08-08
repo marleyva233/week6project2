@@ -19,10 +19,7 @@ body{
 .bg-plum{
 	background-color: #430C36;
 }
-.bg-white{
-	background-color:#fff;
-	opacity: 0.8;
-}
+
 a{
 	font-size: 12px;
 	color: #000;
